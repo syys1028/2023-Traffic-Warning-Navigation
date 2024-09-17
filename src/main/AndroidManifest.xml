@@ -27,7 +27,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".MainActivity"></activity>
-        <meta-data android:name="com.kakao.sdk.AppKey" android:value="665a405230345117e2220a6db619ef08"/>
+        <meta-data android:name="com.kakao.sdk.AppKey" android:value="my-api-key"/>
     </application>
 
 </manifest>
