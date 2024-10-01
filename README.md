@@ -7,12 +7,12 @@
 ## 📌 폴더 구조
     📂 src/main
     ┣ 📂 ../java/com/ubit/blackice
-    ┃ ┣ 📜 MainActivity.java          # 메인 화면 구성 및 교통 장애 경고 내비게이션 기능 구현
+    ┃ ┣ 🔎 MainActivity.java          # 메인 화면 구성 및 교통 장애 경고 내비게이션 기능 구현
     ┃ ┣ 📜 blackiceData.java          # 블랙아이스 데이터 처리 및 관리
     ┃ ┣ 📜 introActivity.java         # 시작 화면 및 앱 소개 화면 처리
     ┃ ┣ 📜 openapiData.java           # 교통 장애물 오픈 API 데이터 연동
     ┣ 📂 ../res/layout
-    ┃ ┣ 📜 activity_main.xml          # 메인 내비게이션 화면 레이아웃 설정
+    ┃ ┣ 🔎 activity_main.xml          # 메인 내비게이션 화면 레이아웃 설정
     ┃ ┣ 📜 startmenu.xml              # 시작 메뉴 레이아웃 설정
 
 
