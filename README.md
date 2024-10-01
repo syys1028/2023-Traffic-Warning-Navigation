@@ -24,7 +24,8 @@
  - type: 장애물 유형  
  - detail_type: 유형 별 세부 정보
  - message: 추가 정보  
-![db](https://github.com/user-attachments/assets/326cab66-5874-42a0-82bd-532a014c508c)
+![image](https://github.com/user-attachments/assets/ecfe7bb8-6fd7-47cf-8140-5473566e4dd5)
+
 
 ## 📌 주요 기능
 ### - 실시간 장애물 탐지:
