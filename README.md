@@ -22,8 +22,9 @@
  - latitude: 위도  
  - longtitude: 경도  
  - type: 장애물 유형  
- - detail_type: 유형 별 세부 정보
+ - detail_type: 유형 별 세부 정보  
  - message: 추가 정보  
+
 ![image](https://github.com/user-attachments/assets/ecfe7bb8-6fd7-47cf-8140-5473566e4dd5)
 
 
